@@ -1,0 +1,25 @@
+Let’s create a Python program that generates a personalized birthday card. The program will prompt the user for specific pieces of information, and then generate a birthday card based on their inputs. The age of the person should be calculated based on the year of birth provided by the user.
+
+1. Write a program that prompts the user for the following pieces of information:
+  - Recipient's name
+  - Year of birth
+  - Personalized message
+  - Sender's name
+
+2. The program should then calculate the age of the recipient based on the current year and the year of birth provided.
+
+3. Generate a personalized birthday card with the following message:
+
+[Recipient's Name], let's celebrate your [Age] years of awesomeness!
+Wishing you a day filled with joy and laughter as you turn [Age]!
+
+[Short Personalized Message]
+
+With love and best wishes,
+[Sender's Name]
+
+Hints:
+
+- Make sure that the program is easy to use. Display messages when asking users for data.
+- You'll need to perform a calculation to determine the recipient's age. Remember to convert input from user to a proper variable type.
+- Make sure your output follows the provided format. However, you can modify the template to your liking, just make sure to display all necessary variables.
